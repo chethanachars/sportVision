@@ -12,6 +12,14 @@ This project utilizes computer vision techniques to analyze basketball dribble m
 - Kalman Filter
 - Python
 
+
+## Demo Video
+
+
+https://github.com/chethanachars/sportVision/assets/158150756/d79b3221-c639-40fd-904d-b2ff2fc2b3c6
+
+
+
 ## Features
 
 1. **Dribble Counting:**
