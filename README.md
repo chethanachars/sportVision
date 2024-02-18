@@ -1,4 +1,4 @@
-# sportVision
+# SportVision
 # Basketball Dribble Analysis with Computer Vision
 
 ## Overview
