@@ -89,3 +89,5 @@ The dribble counting mechanism relies on detecting the upward motion of the ball
 
 ```bash
 python Main.py
+
+## Note: the project is developed as a part of assignment for StelthMode startup
